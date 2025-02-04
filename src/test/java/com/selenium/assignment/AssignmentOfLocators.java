@@ -69,7 +69,7 @@ public class AssignmentOfLocators {
 		
 		driver.findElement(By.cssSelector("div[id='rightPanel'] > p[xpath='1'] > a[href='http://www.parasoft.com/']"));
 		
-		
+		// https://accounts.creatio.com/
 		
 		driver.close();
 		
